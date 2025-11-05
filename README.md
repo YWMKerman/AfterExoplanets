@@ -4,10 +4,6 @@
 _“来了，爱了，给Ta一颗星星，走了”_
 _<p align="right">- 《三体 III 死神永生》 </p>_
 
-
-_"AEX is not just about exploring stars — it’s about exploring time itself.
-See what our cosmic neighborhood might look like billions of years from now."_
-
 <img width="2048" height="800" alt="AEX" src="https://github.com/user-attachments/assets/feaa00c9-1bac-4e12-b379-20f2de87b978" />
 
 ***
