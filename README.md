@@ -67,7 +67,7 @@ then manually descend to the surface.***
 ## **AfterSolarSystem is not compatible with the following mods：**
 
 - Principia
-- External planet mods (RealExpand, AfterKerbin, BeyondHome, etc.)
+- RealExpand
 
 ***
 # _**Installation:**_
