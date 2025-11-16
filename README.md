@@ -25,7 +25,7 @@ The parameter:    allows you to choose the timeline of the star systems.
 - ***False (default): Present-day, real-time exoplanet data***
 - ***True: The star systems are shifted 7 billion years into the future***
 
-## *Why is the folder named “AfterSolarSystemExpand”?*
+## 🤔 *Why is the folder named **“AfterSolarSystemExpand”**?*
 
 The name may seem unrelated to its content, but there is historical context:
 
