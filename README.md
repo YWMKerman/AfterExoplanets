@@ -1,40 +1,60 @@
-# _The AfterExoplanets Mod_
 
+
+
+
+<img width="2048" height="800" alt="AEX" src="https://github.com/user-attachments/assets/feaa00c9-1bac-4e12-b379-20f2de87b978" />
+
+# _After-Expand (AEX) — Exoplanet Expansion Pack_
 
 _“来了，爱了，给Ta一颗星星，走了”_
 _<p align="right">- 《三体 III 死神永生》 </p>_
 
-<img width="2048" height="800" alt="AEX" src="https://github.com/user-attachments/assets/feaa00c9-1bac-4e12-b379-20f2de87b978" />
-
 ***
 
-AfterExoplanets / AfterExpand (AEX) is a Kerbal Space Program (KSP) mod that expands upon the AfterSolarSystem project.
-It adds at least 10 scientifically plausible nearby star systems for you to explore — all modeled as they might appear billions of years in the future, when the Sun has evolved into its red giant stage.
-_**In AEX, the positions of nearby stars are assumed to remain roughly unchanged. Based on that, the mod presents a speculative but realistic future snapshot of the solar neighborhood, featuring:**_
+After-Expand, also known as After-ExoPlanet (AEX), is an exoplanet expansion pack designed for the stock game, RealSolarSystem (RSS), or my AfterSolarSystem mod.
+You may consider it the spiritual successor to RealExoPlanet (REX) or RealExpand.
+AEX includes everything from REX and adds more than 10 additional exoplanetary systems, all updated using the latest available scientific data.
+Although the name contains the word “After”, which might make you think it represents a future era, this is actually one of the mod’s defining features —
 
--	Alpha Centauri System – now consisting of a red giant and a white dwarf
+⭐ ***Timeline Overlap System***
 
--	Barnard’s Star – still on the main sequence.
+Inside the AfterSolarSystemExpand directory, you will find a file named **Settings.cfg**
 
--	Sirius System – both stars have ended their lives as white dwarfs.
+The parameter:    allows you to choose the timeline of the star systems.
 
--	Epsilon Eridani (ε Eri) – nearing the end of its main sequence phase.
+- ***False (default): Present-day, real-time exoplanet data***
+- ***True: The star systems are shifted 7 billion years into the future***
 
--	Tau Ceti (τ Cet) – evolving toward a subgiant state. 
+## *Why is the folder named “AfterSolarSystemExpand”?*
 
-- ...
+The name may seem unrelated to its content, but there is historical context:
 
-Unlike purely fictional expansions, AEX maintains a balance between realism and fun, offering an immersive scientific experience without unnecessary exaggerations.
-For instance, planets like TRAPPIST-1b won’t feature unrealistically thick atmospheres — atmospheric models are designed to be scientifically grounded yet engaging.
-In addition to real-world stars, AEX includes several fictional systems created by collaborator Linfox.
-While fictional, their planetary architectures, atmospheres, and physical parameters still follow realistic astrophysical principles.
-*Don’t like fictional systems?*
-*No problem — you can disable them entirely in the mod’s configuration settings.*
-*What if you don't like how these stars with exoplanets will evolve into the future?*
-*you can still turn off star evolution in the settings.*
+AEX was originally created by a friend, intended as an expansion for AfterSolarSystem.
+Later, I joined the development and kept adding more systems.
+By the time the project expanded into a full exoplanet mod, the folder name could no longer be changed without causing issues.
 
-AEX is designed as a counterpart to RealExpand, but with a stronger emphasis on scientific consistency and future plausibility.
-It’s meant to complement the AfterSolarSystem mod, extending your journey beyond the far-future Sun into the wider cosmos.
+As a result, you might get the impression that the mod is mislabeled — but rest assured, you downloaded the right thing!
+
+## 🔭 **Improvements Over the 2020 RealExoPlanet (REX)**
+***Compared to REX, AEX features:***
+
+✔ More star systems  *(Expanding not only in number, but also in scientific realism.)*
+
+✔ More accurate red dwarf environments
+*For example:
+In REX (2020), all TRAPPIST-1 planets had atmospheres, which is highly unrealistic.
+AEX corrects this — each body reflects current scientific understanding.*
+
+✔ Updated data based on the newest discoveries *（All planetary parameters reference the latest publicly available research.）*
+
+✔ Extended exploration range
+- REX (2020): ~40 light-years
+- AEX (2025): ~**150 light-years**
+
+Almost four times the radius — exponentially more systems to explore.
+
+
+
 
 ## **_Real Exoplanet star systems already included in After-ExoPlanet:_**
 - Alpha Centauri
