@@ -64,7 +64,9 @@ Almost four times the radius — exponentially more systems to explore.
 - Teegarden's Star
 - Gliese 581
 - Trappist-1
+- 55 Cancri
 - K2-18
+- HD 10180
 
  ## _**Known Limitations**_
 Due to KSP’s floating origin and precision issues, you may encounter graphical artifacts such as:
