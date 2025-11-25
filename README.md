@@ -99,7 +99,8 @@ then manually descend to the surface.***
 
 ***
 # _**Installation:**_
-<img width="1600" height="800" alt="Trappist-1" src="https://github.com/user-attachments/assets/c94bc228-299b-44e0-b0a9-e022e9095ab4" />
+<img width="1600" height="800" alt="505999182-c94bc228-299b-44e0-b0a9-e022e9095ab4" src="https://github.com/user-attachments/assets/6fe26d3d-1524-4dff-87ff-8d1dffb7a64a" />
+
 
 ### **_Requirements:_**
 
